@@ -21,8 +21,7 @@ The features will be further extended.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/memebot.git
-cd memebot
+git clone https://github.com/madelinegtj/Discord-Bot.git
 ```
 ### 2. Install Dependencies
 
